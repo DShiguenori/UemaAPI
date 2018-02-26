@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UemaAPI", "UemaAPI\UemaAPI.csproj", "{DA5BAC83-9A4D-4E73-A5CC-3446C0A49707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaDecoZinha", "ChaDecoZinha\ChaDecoZinha.csproj", "{F6A0ADE1-69FC-49B8-9389-D3C8AC3769CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5BAC83-9A4D-4E73-A5CC-3446C0A49707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5BAC83-9A4D-4E73-A5CC-3446C0A49707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5BAC83-9A4D-4E73-A5CC-3446C0A49707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5BAC83-9A4D-4E73-A5CC-3446C0A49707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A0ADE1-69FC-49B8-9389-D3C8AC3769CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A0ADE1-69FC-49B8-9389-D3C8AC3769CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A0ADE1-69FC-49B8-9389-D3C8AC3769CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A0ADE1-69FC-49B8-9389-D3C8AC3769CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D81C9179-5AF9-4DCA-9383-F5FFE3939E57}
+	EndGlobalSection
+EndGlobal
